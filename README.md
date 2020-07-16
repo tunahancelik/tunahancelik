@@ -5,7 +5,7 @@ Im just a computer engineering student:
 - 👨‍🎓 I am currently studying Computer Engineering at Kocaeli University
 - 📱  I'm working on mobile programming
 - 🌱 I’m currently learning Kotlin Programing
-- 💬 Ask me about Kotlin, Java and PHP
+- 💬 Ask me about Kotlin, Java and C
 
 
 #### :rocket: Language and Tools
