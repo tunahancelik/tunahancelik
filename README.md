@@ -10,8 +10,8 @@ Im just a computer engineering student:
 
 #### :rocket: Language and Tools
 ![JAVA Badge](https://img.shields.io/badge/-JAVA-1572B6?style=flat&logo=java&logoColor=white)
+![Swift Badge](https://img.shields.io/badge/-Swift-orange?style=flat&logo=swift&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-green?style=flat&logo=kotlin&logoColor=white)
-![Swift Badge](https://img.shields.io/badge/swift-iOS%20-orange)
 <a href="https://mysql.com" target="_blank"> ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)</a>
 <a href="https://sqlite.org" target="_blank"> ![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)</a>
 ![C Badge](https://img.shields.io/badge/-C%20Programming-F05032?style=flat&logo=c&logoColor=white)
