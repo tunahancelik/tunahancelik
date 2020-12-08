@@ -19,6 +19,7 @@ Im just a computer engineering student:
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Firebase Badge](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase&logoColor=white)
 <a href="https://android.com" target="_blank"> ![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)</a>
+![XCode Badge](https://img.shields.io/badge/-XCode-blue?style=flat&logo=xcode&logoColor=white)
 <a href="https://code.visualstudio.com" target="_blank"> ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)</a>
 ![Intellij Badge](https://img.shields.io/badge/-JetBrains-38B2AC?style=flat&logo=jetbrains&logoColor=white)
 
@@ -34,6 +35,6 @@ Im just a computer engineering student:
 
 
 <a href="https://t.me/tunahanbeeyy" target="_blank">![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lincolnbrito)</a>
-<a href="mailto:celiktnhn@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:celiktnhn@gmail.com)</a>
+<a href="mailto:celiktnhn@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:celiktnhn@icloud.com)</a>
 
 ✨ [My Personal Web Page](https://tunahancelik.github.io)
