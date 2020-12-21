@@ -35,6 +35,6 @@ Im just a computer engineering student:
 
 
 <a href="https://t.me/tunahanbeeyy" target="_blank">![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lincolnbrito)</a>
-<a href="mailto:celiktnhn@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:celiktnhn@icloud.com)</a>
+<a href="mailto:celiktnhn@icloud.com" target="_blank">![iCloud Badge](https://img.shields.io/badge/-iCloud-4479A1?style=flat&logo=icloud&logoColor=white)</a>
 
 ✨ [My Personal Web Page](https://tunahancelik.github.io)
