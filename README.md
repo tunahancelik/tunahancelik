@@ -27,7 +27,7 @@ Im just a computer engineering student:
 #### :link: Follow me
 <a href="https://github.com/tunahancelik" target="_blank">![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/tunahancelik)</a>
 <a href="https://www.linkedin.com/in/tunahan-celik/" target="_blank">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tunahan-celik)</a>
-<a href="https://twitter.com/tunahanbeeyy" target="_blank">![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tunahanbeeyy)</a>
+<a href="https://twitter.com/tnhnclk" target="_blank">![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tnhnclk)</a>
 <a href="https://instagram.com/mr.tunahancelik" target="_blank">![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mr.tunahancelik)</a>
 
 
