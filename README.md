@@ -1,11 +1,10 @@
 ### Hi there, Im Tunahan Çelik 🇹🇷 👋
 
-Im just a computer engineering student:
+Im just a computer engineer:
 
-- 👨‍🎓 I am currently studying Computer Engineering at Kocaeli University
 - 📱  I'm working on mobile programming
 - 🌱 I’m currently learning Swift Programing
-- 💬 Ask me about Kotlin, Java and C
+- 💬 Ask me about Swift, Kotlin, Java and C
 
 
 #### :rocket: Language and Tools
@@ -24,17 +23,5 @@ Im just a computer engineering student:
 ![Intellij Badge](https://img.shields.io/badge/-JetBrains-38B2AC?style=flat&logo=jetbrains&logoColor=white)
 
 
-#### :link: Follow me
-<a href="https://github.com/tunahancelik" target="_blank">![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/tunahancelik)</a>
-<a href="https://www.linkedin.com/in/tunahan-celik/" target="_blank">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tunahan-celik)</a>
-<a href="https://twitter.com/tnhnclk" target="_blank">![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tnhnclk)</a>
-<a href="https://instagram.com/mr.tunahancelik" target="_blank">![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mr.tunahancelik)</a>
-
-
-#### :envelope: Contact
-
-
-<a href="https://t.me/tunahanbeeyy" target="_blank">![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lincolnbrito)</a>
-<a href="mailto:celiktnhn@icloud.com" target="_blank">![iCloud Badge](https://img.shields.io/badge/-iCloud-4479A1?style=flat&logo=icloud&logoColor=white)</a>
 
 ✨ [My Personal Web Page](https://tunahancelik.github.io)
