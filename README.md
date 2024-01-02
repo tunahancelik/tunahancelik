@@ -1,27 +1,30 @@
-### Hi there, Im Tunahan Çelik 🇹🇷 👋
+![SwiftEasyPop](https://i.hizliresim.com/gxt8ve4.png)
+## Hey 👋, I'm Tunahan Çelik!  
 
-Im just a computer engineer:
+👨‍💻 **About Me:**
 
-- 📱  I'm working on mobile programming
-- 🌱 I’m currently learning Swift Programing
-- 💬 Ask me about Swift, Kotlin, Java and C
-
-
-#### :rocket: Language and Tools
-![JAVA Badge](https://img.shields.io/badge/-JAVA-1572B6?style=flat&logo=java&logoColor=white)
-![Swift Badge](https://img.shields.io/badge/-Swift-orange?style=flat&logo=swift&logoColor=white)
-![Kotlin Badge](https://img.shields.io/badge/-Kotlin-green?style=flat&logo=kotlin&logoColor=white)
-<a href="https://mysql.com" target="_blank"> ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)</a>
-<a href="https://sqlite.org" target="_blank"> ![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)</a>
-![C Badge](https://img.shields.io/badge/-C%20Programming-F05032?style=flat&logo=c&logoColor=white)
-![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Firebase Badge](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase&logoColor=white)
-<a href="https://android.com" target="_blank"> ![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)</a>
-![XCode Badge](https://img.shields.io/badge/-XCode-blue?style=flat&logo=xcode&logoColor=white)
-<a href="https://code.visualstudio.com" target="_blank"> ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)</a>
-![Intellij Badge](https://img.shields.io/badge/-JetBrains-38B2AC?style=flat&logo=jetbrains&logoColor=white)
+-   🎓 I'm a Computer Engineer passionate about technology and innovation.
+-   🌱 After some experience in Android development, I've transitioned into the realm of iOS development, where I continue to grow and evolve as a professional.
+-   🚀 My journey in software began with PHP web programming, but for the past 7 years, my focus has shifted towards mobile app development.
+-   💡 I enjoy exploring the dynamic landscape of mobile technologies, constantly seeking to challenge myself and improve my skills.
+-   🛠️ Besides native development, I have also dabbled in cross-platform app development using frameworks like Ionic and Flutter, expanding my expertise across different ecosystems.
+-   🤝 I'm on a lifelong learning path and always open to collaborating on innovative projects and ideas.
 
 
 
-✨ [My Personal Web Page](https://tunahancelik.github.io)
+## Languages and Tools  
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>    
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a> 
+</div> 
